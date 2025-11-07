@@ -63,5 +63,18 @@ These measures were created to:
 
 ---
 
+## Derived Insights
+
+The following insights were derived from the analysis:
+1. Employees with low job satisfaction and poor work-life balance have way higher attrition rates.  
+2. Staff who work overtime are more likely to leave compared to those with regular schedules.  
+3. Employees with fewer training sessions per year show higher turnover, hinting that skill development impacts retention.  
+4. Teams with longer relationships with their managers experience lower attrition rates, indicating the importance of stable leaderships.  
+5. Departments with younger staff demographics recorded higher movement, likely tied to career mobility and growth expectations.
+
+These findings provide actionable insights for HR management to improve retention through targeted engagement, balanced workloads, and leadership development initiatives.
+
+---
+
 ## Preview
 ![PBI Overview](https://github.com/user-attachments/assets/10c3d65f-6521-4f06-8789-c1d5f53cd735)
